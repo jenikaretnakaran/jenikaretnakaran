@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jenikaretnakaran
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning full stack development
-- 💞️ I’m looking to collaborate on ...
+- 🌱 Currently a student in Ethereum Developer program in Kerala Blockchain Academy
+- 💞️ I’m looking to collaborate on blockchain based projects
 - 📫 How to reach me jenikav952@gmail.com
 
 <!---
