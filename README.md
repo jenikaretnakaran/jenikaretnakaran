@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jenikaretnakaran
 - 👀 I’m interested in coding
-- 🌱 Currently a student in Ethereum Developer program in Kerala Blockchain Academy
+- 🌱 I'm a Certified Blockchain Associate and Certified Ethereum Developer 
 - 💞️ I’m looking to collaborate on blockchain based projects
 - 📫 How to reach me jenikav952@gmail.com
 
